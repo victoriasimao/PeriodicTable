@@ -9,7 +9,7 @@ CSS grid allows dividing a page into main areas or regions, by defining the rela
 View:
 
 ![Periodic table](TablaPeriodica.png) 
-[link](http://google.com)
+[https://victoriasimao.github.io/PeriodicTable/](https://victoriasimao.github.io/PeriodicTable/)
 
 
 > Victoria Simao
